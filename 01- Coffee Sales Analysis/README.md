@@ -13,10 +13,15 @@ Microsoft Excel
 
 ## Skills Demonstrated
 Data Cleaning and Preparation
+
 Data Organization
+
 Exploratory Data Analysis
+
 Pivot Tables and Pivot Charts
+
 Data Visualization
+
 Business Reporting
 
 ## Project Objectives
