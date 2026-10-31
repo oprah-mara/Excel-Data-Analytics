@@ -1,6 +1,6 @@
-# Excel Data Analytics Portfolio
+# Excel Data Analytics Projects
 
-Welcome to my Excel Data Analytics Portfolio!
+Welcome to my Excel Data Analytics Projects!
 
 This repository contains a collection of data analytics projects completed using Microsoft Excel. These projects demonstrate my ability to clean, organize, analyze, and visualize data to generate meaningful business insights.
 
@@ -24,7 +24,5 @@ This repository contains a collection of data analytics projects completed using
 
 - Microsoft Excel
 
-## About Me
 
-I am an aspiring Data Analyst developing my technical and analytical skills through hands-on projects. I am passionate about using data to identify patterns, solve problems, and support informed decision-making.
 
