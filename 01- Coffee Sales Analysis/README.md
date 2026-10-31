@@ -1,6 +1,6 @@
 # Coffee Sales Analysis
 
-Project Overview
+## Project Overview
 
 This project focuses on analyzing coffee sales data using Microsoft Excel. The goal is to explore sales performance, identify purchasing trends, and generate insights that can support business decision-making.
 
