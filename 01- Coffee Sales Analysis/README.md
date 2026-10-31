@@ -10,24 +10,18 @@ The dataset contains coffee sales transaction records. The data has been cleaned
 
 ## Skills Demonstrated
 - Data Cleaning and Preparation
-
 - Data Organization
-
 - Exploratory Data Analysis
-
 - Pivot Tables and Pivot Charts
-
 - Data Visualization
-
 - Business Reporting
 
 ## Project Objectives
 - Examine overall coffee sales performance.
-
 - Identify top-performing coffee products.
 - Explore sales trends over time.
 - Investigate customer purchasing patterns.
-Identify opportunities to improve sales performance.
+- Identify opportunities to improve sales performance.
 
 ## Analysis and Findings
 To be updated as the analysis progresses.
