@@ -8,9 +8,6 @@ This project focuses on analyzing coffee sales data using Microsoft Excel. The g
 
 The dataset contains coffee sales transaction records. The data has been cleaned and prepared for analysis using Microsoft Excel.
 
-## Tools Used
-Microsoft Excel
-
 ## Skills Demonstrated
 Data Cleaning and Preparation
 
@@ -25,10 +22,11 @@ Data Visualization
 Business Reporting
 
 ## Project Objectives
-Examine overall coffee sales performance.
-Identify top-performing coffee products.
-Explore sales trends over time.
-Investigate customer purchasing patterns.
+- Examine overall coffee sales performance.
+
+- Identify top-performing coffee products.
+- Explore sales trends over time.
+- Investigate customer purchasing patterns.
 Identify opportunities to improve sales performance.
 
 ## Analysis and Findings
